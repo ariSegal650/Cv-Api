@@ -410,3 +410,4 @@ C:\Users\ari65\Desktop\home\CV-project2023\Api\bin\Debug\net7.0\runtimes\win\lib
 C:\Users\ari65\Desktop\home\CV-project2023\Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ari65\Desktop\home\CV-project2023\Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ari65\Desktop\home\CV-project2023\Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ari65\Desktop\home\CV-project2023\Api\bin\Debug\net7.0\Api.staticwebassets.runtime.json

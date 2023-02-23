@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\130.675bcc822c986599.js",
+      "PackagePath": "staticwebassets\\130.675bcc822c986599.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\735.0670da40dfc0bc3e.js",
+      "PackagePath": "staticwebassets\\735.0670da40dfc0bc3e.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\i18n\\en.json",
+      "PackagePath": "staticwebassets\\assets\\i18n\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\i18n\\he.json",
+      "PackagePath": "staticwebassets\\assets\\i18n\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\images\\Sign-in-Small---Active.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Sign-in-Small---Active.png"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\images\\flagUsa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flagUsa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\assets\\images\\glagIsrael.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\glagIsrael.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\color.dae87a04d07ca92b.png",
+      "PackagePath": "staticwebassets\\color.dae87a04d07ca92b.png"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\hue.8b1818380241e6ac.png",
+      "PackagePath": "staticwebassets\\hue.8b1818380241e6ac.png"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\main.46b88b460809a4c9.js",
+      "PackagePath": "staticwebassets\\main.46b88b460809a4c9.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\polyfills.78b5eb3e9a921dab.js",
+      "PackagePath": "staticwebassets\\polyfills.78b5eb3e9a921dab.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\primeicons.0112589c5695a9ed.ttf",
+      "PackagePath": "staticwebassets\\primeicons.0112589c5695a9ed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\primeicons.943ab24c43224d29.svg",
+      "PackagePath": "staticwebassets\\primeicons.943ab24c43224d29.svg"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\primeicons.ba3f916dfb64be8c.woff2",
+      "PackagePath": "staticwebassets\\primeicons.ba3f916dfb64be8c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\primeicons.f8b9e8a4e401b603.woff",
+      "PackagePath": "staticwebassets\\primeicons.f8b9e8a4e401b603.woff"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\primeicons.ffecb2549ad1765a.eot",
+      "PackagePath": "staticwebassets\\primeicons.ffecb2549ad1765a.eot"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\runtime.eff896b6b8169f16.js",
+      "PackagePath": "staticwebassets\\runtime.eff896b6b8169f16.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\scripts.65a43e7ab8dc65eb.js",
+      "PackagePath": "staticwebassets\\scripts.65a43e7ab8dc65eb.js"
+    },
+    {
+      "Id": "C:\\Users\\ari65\\Desktop\\home\\CV-project2023\\Api\\wwwroot\\styles.cee317cd9e8182e0.css",
+      "PackagePath": "staticwebassets\\styles.cee317cd9e8182e0.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Api.props",
+      "PackagePath": "build\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Api.props",
+      "PackagePath": "buildMultiTargeting\\Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Api.props",
+      "PackagePath": "buildTransitive\\Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

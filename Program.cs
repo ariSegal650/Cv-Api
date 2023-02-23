@@ -33,6 +33,11 @@ app.UseCors(builder=>builder.AllowAnyHeader().AllowAnyMethod().WithOrigins("http
 
 app.UseAuthorization();
 
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.MapControllers();
+
+app.MapFallbackToController("index", "Fallback");
 
 app.Run();
